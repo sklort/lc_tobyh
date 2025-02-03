@@ -1,0 +1,8 @@
+Toby Hurrell  
+Professor Rome  
+MTEC-343  
+3 February, 2025  
+User’s Manual: Chapter 1  
+	The highly academic, conceptual language used in this chapter pleasantly surprised me, as it felt more like a philosophical text on coding/writing rather than a plain introduction. The chapter continued to surprise me in its discussion of the politics of “code clarity” and coding’s similarity to linguistics/writing. I think the declaration that our status as “users” is collapsing is an apt assessment, not in a vague conspiratorial manner but more so due to the complications of pervasive corporate ideology. The text’s explanation that projecting code is a way to strengthen the gradually blurring boundaries between the user and machine—as through this display the machine is clearly being used—I found to be a particularly good retort to this “user” problem. The view that typed-out, instructional code is a way to link together the acts of coding and writing, and also link their successes or failures towards their goals/expressions, I found surprising as I had simply never made that link before.   
+	I was not surprised, however, that the text was hesitant to give a particular definition to live coding. From the way live coding was described in class, it seems—like linguistics—a particularly fluid phenomenon which refuses to take one solid or concrete form. Thus, I think it would be a fruitless pursuit to try and define a medium which has frequently defied and continues to defy definition. The explanation that the code is a sort of musical score and the user the composer is not a new concept to me. However, I did enjoy the continuation that live coding dissolves the clear dichotomies of composer/performer, score/performance, etc.   
+	
