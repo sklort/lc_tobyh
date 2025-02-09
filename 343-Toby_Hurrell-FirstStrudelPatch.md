@@ -1,16 +1,18 @@
-#First Strudel Patch
-##Toby Hurrell
-##MTEC-343 - Live Coding
+# First Strudel Patch
+## Toby Hurrell
+## MTEC-343 - Live Coding
 
-
-'stack ("[bd ~ ~ ~ | bd bd ~ ~ | ~ bd ~ bd| bd ~ ~ ~] [bd? ~ ~ ~ | bd? ~ ~ bd!2?] [bd ~ ~ ~] [bd ~ ~ ~ | bd ~ bd bd]",
+```javascript
+stack ("[bd ~ ~ ~ | bd bd ~ ~ | ~ bd ~ bd| bd ~ ~ ~] [bd? ~ ~ ~ | bd? ~ ~ bd!2?] [bd ~ ~ ~] [bd ~ ~ ~ | bd ~ bd bd]",
        "[<bd sd> ~ ~ ~] [bd ~ ~ ~] [bd ~ ~ ~] [bd? ~ ~ ~]",
        "[bd ~ ~ ~ | bd!2 ~ ~ bd] [bd? ~ ~ ~] [bd ~ ~ ~] [bd ~ ~ ~]",
        "[~ ~ ~ ~] [~ ~ sd ~] [~ ~ ~ sd] [ ~ ~ sd ~]",
        "[~ ~ ~ sd? | sd? sd? sd?] [~ ~ sd ~] [~ ~ ~ sd? | ~ ~ ~ sd | ~ ~ sd?] [ ~ ~ sd? ~ | ~ ~ sd sd!2? | ~ ~ sd? ~]",
        "[~ ~ oh ~] [~ ~ oh ~] [~ ~ oh ~] [~ ~ oh? oh | ~ ~ oh oh]",
        "[hh? hh? hh? hh? | hh? hh? hh? hh? | hh hh hh] [hh ~ ~ hh | ~ ~ ~ ~ | hh? hh? hh?] [hh? ~ ~ ~] [~ ~ ~ ~]",
-      ).s().fast(1.25)'
+      ).s().fast(1.25) 
+
+```
 
 [My patch](https://strudel.cc/?6XEPHrz1pbRA)
 
